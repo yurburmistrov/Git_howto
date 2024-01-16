@@ -35,3 +35,7 @@ git log --oneline
 git diff
 ```
 
+### Откат к конкретному коммиту:
+```sh
+git checkout <название коммита> 
+```
