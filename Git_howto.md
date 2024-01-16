@@ -30,3 +30,8 @@ git log
 git log --oneline
 ```
 
+### Просмотр изменений:
+```sh
+git diff
+```
+
