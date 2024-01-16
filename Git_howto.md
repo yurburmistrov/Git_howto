@@ -14,3 +14,9 @@ git add
 ```sh
 git status
 ```
+
+### Фиксация коммита сообщением:
+```sh
+git commit
+```
+
