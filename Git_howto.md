@@ -20,3 +20,7 @@ git status
 git commit
 ```
 
+### Просмотр истории коммитов:
+```sh
+git log
+```
