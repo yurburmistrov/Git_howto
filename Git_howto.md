@@ -24,3 +24,9 @@ git commit
 ```sh
 git log
 ```
+
+### Просмотр истории коммитов в одну строку:
+```sh
+git log --oneline
+```
+
