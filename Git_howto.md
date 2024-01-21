@@ -37,7 +37,7 @@ git diff
 ## Работа с ветвлением:
 ### Перемещение по веткам:
 ```sh
-git checkout <имя ветки> 
+git checkout <branch_name> 
 ```
 
 ### Отображение всех веток
@@ -62,5 +62,5 @@ git log --oneline --graph
 
 ### Слияние веток
 ```sh
-git merge -d <branch_name
+git merge -d <branch_name>
 ``````
