@@ -50,3 +50,13 @@ git branch
 git branch <new_branch>
 ```
 
+Удаление ветки
+```sh
+git branch -d <new_branch>
+```
+
+Отображение веток в графическом виде
+```sh
+git log --oneline --graph
+``````
+
