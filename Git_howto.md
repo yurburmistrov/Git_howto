@@ -49,3 +49,10 @@ git branch
 ```sh
 git branch <new_branch>
 ```
+
+Удаление ветки
+```sh
+git branch -d <new_branch>
+```
+
+git log --oneline --graph
