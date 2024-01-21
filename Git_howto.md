@@ -1,5 +1,6 @@
 # Подсказка по GIT
 
+## Работа с локальным репозиторием
 ### Ввод данных пользователя
 ``````
 git config --global user.name "John Doe"
@@ -73,11 +74,9 @@ git log --oneline --graph
 ```sh
 git merge -d <branch_name>
 ``````
-<<<<<<< HEAD
-если
-=======
 *Если надо выполнить коммит слияния, выполните команду git merge с флагом*
 ``````
 git merge --no-ff existing_branch_name
 ``````
->>>>>>> branch_5
+
+# Работа Git c GitHub
