@@ -49,3 +49,7 @@ git branch
 ```sh
 git branch <new_branch>
 ```
+
+git branch -d <new_branch>
+
+git log --oneline --graph
