@@ -39,3 +39,7 @@ git diff
 ```sh
 git checkout <название коммита> 
 ```
+Отображение всех веток
+```sh
+git branch
+```
