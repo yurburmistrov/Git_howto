@@ -73,3 +73,7 @@ git log --oneline --graph
 ```sh
 git merge -d <branch_name>
 ``````
+*Если надо выполнить коммит слияния, выполните команду git merge с флагом*
+``````
+git merge --no-ff existing_branch_name
+``````
