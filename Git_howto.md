@@ -34,7 +34,7 @@ git log --oneline
 ```sh
 git diff
 ```
-
+## Работа с ветвлением:
 ### Перемещение по веткам:
 ```sh
 git checkout <имя ветки> 
