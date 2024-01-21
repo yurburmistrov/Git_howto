@@ -1,5 +1,11 @@
 # Подсказка по GIT
 
+### Ввод данных пользователя
+``````
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+``````
+
 ### Создание репозитория:
 ```sh
 git init
@@ -37,11 +43,7 @@ git diff
 ## Работа с ветвлением:
 ### Перемещение по веткам:
 ```sh
-<<<<<<< HEAD
-git checkout <branchname> 
-=======
 git checkout <branch_name> 
->>>>>>> branch_3
 ```
 
 ### Отображение всех веток
