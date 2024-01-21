@@ -63,6 +63,9 @@ git branch -d <new_branch>
 ```sh
 git log --oneline --graph
 ``````
+Пример:
+![скриншот](example.jpg) 
+
 
 ### Слияние веток
 ```sh
