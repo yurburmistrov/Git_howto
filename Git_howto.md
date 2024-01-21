@@ -35,7 +35,12 @@ git log --oneline
 git diff
 ```
 
-### Откат к конкретному коммиту:
+### Перемещение по веткам:
 ```sh
-git checkout <branchname> 
+git checkout <имя ветки> 
+```
+
+Отображение всех веток
+```sh
+git branch
 ```
